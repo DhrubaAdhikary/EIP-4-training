@@ -10,6 +10,9 @@ Has been adapted to spool out train and test datasets in .npy format to facilate
 
 Submission :
 nasnet with CLR reset.ipynb
+custom implementation of data generator to adapt targets as numpy array . 
+
+
 Iteration 6 i.e 25*6
 val_gender_acc: 0.8241       
 val_imagequality_acc: 0.5287 
