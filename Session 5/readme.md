@@ -7,9 +7,11 @@ Accuracy achieved ->75% in 50 epochs .
 Has been adapted to spool out train and test datasets in .npy format to facilate faster loads. 
 
 
-Iteration 6 i.e 25*6
 
-val_gender_acc: 0.8241 
+Submission :
+nasnet with CLR reset.ipynb
+Iteration 6 i.e 25*6
+val_gender_acc: 0.8241       
 val_imagequality_acc: 0.5287 
 val_age_acc: 0.3745 
 val_weight_acc: 0.6134 
